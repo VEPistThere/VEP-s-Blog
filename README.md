@@ -1,2 +1,2 @@
-# VEP-s-Blog
+# vep-blog
 my personal blog
